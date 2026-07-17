@@ -4,6 +4,8 @@ This is a script for the FCEUX emulator that allows you to navigate otherwise in
 ## How to Use
 Super Mario Bros. 2 has 20 normally accessible worlds. But by using this script, the number of accessible worlds skyrockets to **thousands of potential levels**!
 
+⚠️ ***PLEASE NOTE THAT SOME LEVELS WILL CRASH THE GAME!! IF THIS HAPPENS, SOFT RESET THE ROM AND TRY ANOTHER LEVEL!!***
+
 To access the script, start by loading the script using FCEUX's Lua window. Once the script is running, click back on the game window and press the key you have binded to the SELECT key. If done correctly, you should see an interface that looks something like this appear in the top-left corner of the screen:
 
 ![](https://i.postimg.cc/66RJmmnx/Screenshot-20260717-171454.png)
