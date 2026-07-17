@@ -2,7 +2,7 @@
 This is a script for the FCEUX emulator that allows you to navigate otherwise inaccessible areas in Super Mario Bros. 2 (NES).
 
 ## How to Use
-Super Mario Bros. 2 has 20 normally accessible worlds. But by using this script, the number of accessible worlds skyrockets to **thousands of potential levels**!
+Super Mario Bros. 2 has 20 normally accessible levels. But by using this script, the number of accessible worlds skyrockets to **thousands of potential levels**!
 
 ⚠️ ***PLEASE NOTE THAT SOME LEVELS WILL CRASH THE GAME!! IF THIS HAPPENS, SOFT RESET THE ROM AND TRY ANOTHER LEVEL!!***
 
