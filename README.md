@@ -12,8 +12,6 @@ To access the script, start by loading the script using FCEUX's Lua window. Once
 
 If you're wondering what these values mean:
 * **$0531 (Current level loaded)**: Displays that address in memory to show you which level you're in.
-* **WORLD and LEVEL**: These display the values that will be loaded into the world and area addresses in memory.
-** Adjust the **WORLD** value by pressing up and down.
-** Adjust the **LEVEL** value by pressing left and right.
+* **WORLD and LEVEL**: These display the values that will be loaded into the world and area addresses in memory. Adjust the **WORLD** value by pressing up and down, and adjust the **LEVEL** value by pressing left and right.
 
 Once you're done, you can press the B button or the key binded to it to load the level **using your currently selected WORLD and LEVEL values**. If you want to back out of the UI, press the A button or the key binded to it.
